@@ -1,0 +1,7 @@
+Category: Fashion
+Policy Type: Exchange
+Brand: Puma, Nike
+
+- Clothing and footwear can be exchanged within 10 days of delivery.
+- Tags must be intact; items must not be worn or washed.
+- Exchange depends on availability of size.

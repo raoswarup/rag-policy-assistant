@@ -1,0 +1,7 @@
+Category: Books
+Policy Type: Return
+Brand: Amazon Publishing
+
+- Books can be returned within 7 days if the product is damaged or misprinted.
+- E-books once downloaded are not refundable.
+- Returns are not accepted for minor page misalignment.

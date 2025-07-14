@@ -1,0 +1,8 @@
+Category: Electronics
+Policy Type: Return
+Brand: Samsung, OnePlus
+
+- Electronics are eligible for return within 7 days if there is a manufacturing defect.
+- Items must be returned in original packaging with all accessories.
+- Refund will be processed post quality check.
+- Software-activated devices (e.g., MS Office pre-installed) are non-returnable once activated.

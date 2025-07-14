@@ -1,0 +1,7 @@
+Category: Grocery
+Policy Type: Refund
+Brand: BigBasket
+
+- Perishable grocery items are not eligible for return.
+- Refunds are issued if products are delivered damaged or expired.
+- Complaints must be raised within 24 hours of delivery.

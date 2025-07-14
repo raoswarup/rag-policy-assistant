@@ -1,0 +1,7 @@
+Category: Furniture
+Policy Type: Warranty
+Brand: Urban Ladder
+
+- Furniture is covered under a 12-month limited warranty against manufacturing defects.
+- Warranty does not cover wear & tear, damage from misuse, or liquid damage.
+- Claims require original invoice and defect images/videos.
